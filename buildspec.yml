@@ -35,5 +35,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/java-maven-calculator-web-app*/*
+    - target/*/*
   discard-paths: yes 
